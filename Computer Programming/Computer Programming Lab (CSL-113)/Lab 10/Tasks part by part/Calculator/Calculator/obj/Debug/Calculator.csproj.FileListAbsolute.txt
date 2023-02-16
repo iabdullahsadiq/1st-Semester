@@ -1,0 +1,19 @@
+C:\Users\Spring2020\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Spring2020\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Spring2020\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Spring2020\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Spring2020\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Spring2020\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Spring2020\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Spring2020\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Spring2020\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Notes\1st Semester\Computer Programming\Computer Programming Lab (CSL-113)\Lab 10\Tasks part by part\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Notes\1st Semester\Computer Programming\Computer Programming Lab (CSL-113)\Lab 10\Tasks part by part\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Notes\1st Semester\Computer Programming\Computer Programming Lab (CSL-113)\Lab 10\Tasks part by part\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Notes\1st Semester\Computer Programming\Computer Programming Lab (CSL-113)\Lab 10\Tasks part by part\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Notes\1st Semester\Computer Programming\Computer Programming Lab (CSL-113)\Lab 10\Tasks part by part\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+E:\Notes\1st Semester\Computer Programming\Computer Programming Lab (CSL-113)\Lab 10\Tasks part by part\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Notes\1st Semester\Computer Programming\Computer Programming Lab (CSL-113)\Lab 10\Tasks part by part\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Notes\1st Semester\Computer Programming\Computer Programming Lab (CSL-113)\Lab 10\Tasks part by part\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Notes\1st Semester\Computer Programming\Computer Programming Lab (CSL-113)\Lab 10\Tasks part by part\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Notes\1st Semester\Computer Programming\Computer Programming Lab (CSL-113)\Lab 10\Tasks part by part\Calculator\Calculator\obj\Debug\Calculator.pdb

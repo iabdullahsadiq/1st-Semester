@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <script>
+            const num1 = parseFloat(prompt('Enter First Number = '));
+            const num2 = parseFloat(prompt('Enter Second Number = '));
+            var op = prompt('Enter the operator ( +,-,*,/) :');
+            let result;
+
+            if (op=='+')
+            {
+                result = num1 + num2;
+            }
+            else if (op == '-')
+            {
+                result = num1 - num2;s
+            }
+            else if (op == '*')
+            {
+                result = num1 * num2;
+            }
+            else if (op == '/')
+            {
+                result = num1/num2;
+            }
+
+            document.write("Result of " +num1+ " "+op+ " "+num2+ " = "+result);
+        </script>
+    </head>
+</html>
