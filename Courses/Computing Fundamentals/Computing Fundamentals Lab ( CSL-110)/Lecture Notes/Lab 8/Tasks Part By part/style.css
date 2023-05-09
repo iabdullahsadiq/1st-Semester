@@ -1,0 +1,20 @@
+ul {
+    list-style-type:none;
+    margin:1px;
+    padding:1px;
+    overflow:hidden;
+    background-color:rgba(139, 35, 187, 0.842);
+}
+li {
+    float: left;
+} 
+li a {
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 12px 14px;
+    text-decoration:none;
+}
+li a:hover {
+    background-color: #541985d8;
+  }
